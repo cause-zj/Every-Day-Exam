@@ -1,0 +1,30 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor swap files
+*~
+*.swp
+*.swo
+*.swn
+
+# Editors
+.idea/
+.vscode/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Secrets
+.env
+.env.*
+
+# Logs
+*.log
